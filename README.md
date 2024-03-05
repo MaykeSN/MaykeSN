@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @MaykeSN
-- 👀 I’m interested in C# and Mysql
-- 🌱 I’m currently learning C#
+## Olá eu sou a Mayke de Souza, estudante de programação e tecnologia!
 
+<img align="center" alt="Mayke-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-<!---
-MaykeSN/MaykeSN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div> 
+  <a href="https://instagram.com/wtfmayke" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mayke.souza2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+</div>
