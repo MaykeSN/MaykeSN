@@ -1,4 +1,4 @@
-## Olá eu sou a Mayke de Souza, estudante de programação e tecnologia!
+## Olá, eu sou a Mayke de Souza, estudante de programação e tecnologia!
 
 <div style="display: inline_block">
   <h2>Languages/Softwares</h2>
