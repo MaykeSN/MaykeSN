@@ -1,7 +1,7 @@
 ## Olá eu sou a Mayke de Souza, estudante de programação e tecnologia!
 
 <div style="display: inline_block">
-  <h2>Languages</h2>
+  <h2>Languages/Softwares</h2>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
