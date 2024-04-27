@@ -57,6 +57,8 @@
  </br>
  </br>
  </br>
+  </br>
+   </br>
  
 <h2>Studying in this moment:</h2> 
 <div style="display: inline_block">
