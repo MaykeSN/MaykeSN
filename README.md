@@ -3,6 +3,7 @@
 <div >
   <h2>Languages/Softwares</h2>
 </div>
+
 <div style="width: 50px;">
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -16,18 +17,19 @@
 </div>
 
 <div>
- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" min-width="400px" max-width="200px" width="200px" align="right" style="display: inline-block; text-align: center; alt="Computador iuriCode">
+   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" min-width="400px" max-width="200px" width="200px" align="right" style="display: inline-block; text-align: center; alt="Computador iuriCode">
 </div>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
 <br>
 <hr>
 <br>
+<br>
+<br>
+
+<h1></h1>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,13 +54,16 @@
  </br>
  </br>
  </br>
+ 
 <h2>Studying in this moment:</h2> 
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-
-
-
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
+    
 &nbsp;
 &nbsp;
 
@@ -68,6 +73,4 @@
   <a href = "mailto:mayke.souza2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
- 
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
