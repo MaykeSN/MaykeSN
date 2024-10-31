@@ -1,4 +1,4 @@
-<img width=100% src="https://github.com/MaykeSN/MaykeSN/blob/main/wepik-modern-black-gaming-twitter-header-20240427093514rKaT/0.png">
+<img width=100% src="https://github.com/MaykeSN/MaykeSN/blob/main/wepik-modern-black-gaming-twitter-header-20240427093514rKaT/1.png">
 
 <div >
   <h2>Languages/Softwares</h2>
