@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykesn&label=Profile%20views&color=0e75b6&style=flat" alt="maykesn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maykesn" alt="maykesn" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando em **um projeto de integração.**
 
 - 🌱 Atualmente estou estudando **React, DDD**
