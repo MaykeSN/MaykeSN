@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/MaykeSN/MaykeSN/refs/heads/main/wepik-modern-black-gaming-twitter-header-20240427093514rKaT/1.png"  />
+  <img  src="https://raw.githubusercontent.com/MaykeSN/MaykeSN/refs/heads/main/wepik-modern-black-gaming-twitter-header-20240427093514rKaT/1.png"  />
 </div>
 
 ###
